@@ -1,2 +1,2 @@
 # learn-wgpu
-nothing interesting here.
+learning from: https://sotrh.github.io/learn-wgpu
